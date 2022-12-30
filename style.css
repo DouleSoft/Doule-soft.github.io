@@ -1,0 +1,27 @@
+.test1 {
+  text-align: center;
+  font-weight: 30;
+  font-size: 25px;
+  color: beige;
+  background:  rgba(0, 0, 0, 0.419) 500px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 6px;
+  border: 2px black inset;
+}
+.fig {
+    display: block;
+    text-align: center;
+    
+}
+body {
+    background-image: url(https://www.meme-arsenal.com/memes/676e832a01fa1a3c8f9750206bcd4777.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: -600px;
+    height: 777px;
+    
+}
+.fig1 {
+    text-align: center;
+}
