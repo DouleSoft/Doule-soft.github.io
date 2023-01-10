@@ -1,27 +1,42 @@
-.test1 {
-  text-align: center;
-  font-weight: 30;
-  font-size: 25px;
-  color: beige;
-  background:  rgba(0, 0, 0, 0.419) 500px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  letter-spacing: 6px;
-  border: 2px black inset;
-}
-.fig {
-    display: block;
-    text-align: center;
-    
-}
 body {
-    background-image: url(https://www.meme-arsenal.com/memes/676e832a01fa1a3c8f9750206bcd4777.jpg);
+
+}
+.test2 {
+    background-image: url(photo_2022-11-29_09-08-40.jpg);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
-    width: -600px;
-    height: 777px;
-    
+    height: 400px;
+    width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+    animation-name: slidein;
+    animation-duration: 3s;
 }
-.fig1 {
+.test1 {
     text-align: center;
+    margin-top: 10px;
+    animation-name: slidein;
+    animation-duration: 3s;
 }
+.test3 {
+    background-image: url(photo_2022-11-03_22-13-43.jpg);
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
