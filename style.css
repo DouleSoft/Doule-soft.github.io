@@ -1,0 +1,285 @@
+@media  screen and (max-width: 1200px) {
+  
+body {
+  width: max-content;
+}
+.test2 {
+  background-image: url(https://github.com/Sopoity/Sopoity.github.io/blob/main/IMG_20230110_140158_514.jpg?raw=true);
+  width: 1200px;
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation-name: slidein;
+  animation-duration: 3s;
+  
+
+}
+.test5 {
+  color: rgb(255, 255, 255);
+  background: rgb(0, 0, 0);
+  border-radius: 10%;
+  border: inset red 1px;
+  margin-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+@keyframes slidein{
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+.test1 {
+  text-align: center;
+}
+.test3 {
+  background-image: url(photo_2022-11-03_22-13-43.jpg);
+  width: 350px;
+  height: 350px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+}
+.test4 {
+  background-image: url(photo_2022-11-03_22-13-43.jpg);
+  width: 350px;
+  height: 350px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+}
+@media screen and (max-width: 600px) {
+  body {
+   max-width: max-content;
+  }
+  .test2 {
+    background-image: url(https://github.com/Sopoity/Sopoity.github.io/blob/main/IMG_20230110_140158_514.jpg?raw=true);
+    width: max-content;
+    height:200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation-name: slidein;
+    animation-duration: 2s;
+    
+  
+  }
+  @keyframes slidein{
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+  .test1 {
+    text-align: center;
+    font-size: x-large;
+  }
+  .test3 {
+    background-image: url(https://github.com/Sopoity/Sopoity.github.io/blob/main/IMG_20230110_140200_472.jpg?raw=true);
+    width: 350px;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: auto;
+    margin-left: auto;
+    display: block;
+  }
+  .test13 {
+    color: rgb(255, 255, 255);
+    background: #000;
+   }
+  
+   .test10 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    color: rgb(0, 0, 0);
+    background-color: rgba(127, 255, 212, 0.507);
+    font-size: larger;
+    font-weight: 300;
+   }
+}
+@media screen and (max-width: 400px) {
+  body {
+    width: max-content;
+  }
+  .test2 {
+    background-image: url(https://github.com/Sopoity/Sopoity.github.io/blob/main/IMG_20230110_140158_514.jpg?raw=true);
+    width: 500px;
+    height:200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation-name: slidein;
+    animation-duration: 3s;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  
+  }
+  @keyframes slidein{
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+  .test1 {
+    text-align: center;
+    font-size: x-large;
+  }
+  .test3 {
+    background-image: url(https://github.com/Sopoity/Sopoity.github.io/blob/main/IMG_20230110_140200_472.jpg?raw=true);
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+  }
+  .test4 {
+    background-image: url(https://github.com/Sopoity/Sopoity.github.io/blob/main/IMG_20230110_140200_472.jpg?raw=true);
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+  }
+ .test13 {
+  color: rgb(255, 255, 255);
+  background: #000;
+ }
+
+ .test10 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  color: rgb(0, 0, 0);
+  background-color: rgba(127, 255, 212, 0.507);
+  font-size: larger;
+  font-weight: 300;
+ }
+ .test12 {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  border: 1px inset rgb(0, 0, 0) ;
+ }
+}
+
+
+
+
+
+
+
+
+
+body {
+  width: max-content;
+}
+.test2 {
+  background-image: url(https://github.com/Sopoity/Sopoity.github.io/blob/main/IMG_20230110_140158_514.jpg?raw=true);
+  width: 1400px;
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation-name: slidein;
+  animation-duration: 3s;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+}
+@keyframes slidein{
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+.test1 {
+  text-align: center;
+  font-size: x-large;
+}
+.test3 {
+  background-image: url(https://github.com/Sopoity/Sopoity.github.io/blob/main/IMG_20230110_140200_472.jpg?raw=true);
+  width: 200px;
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+.test4 {
+  background-image: url(https://github.com/Sopoity/Sopoity.github.io/blob/main/IMG_20230110_140200_472.jpg?raw=true);
+  width: 200px;
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+.test13 {
+color: rgb(255, 255, 255);
+background: #000;
+display: block;
+margin: 0 auto;
+  display: block;
+}
+
+.test10 {
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+color: rgb(0, 0, 0);
+background-color: rgba(127, 255, 212, 0.507);
+font-size: larger;
+font-weight: 300;
+}
+.test12 {
+color: rgb(0, 0, 0);
+text-decoration: none;
+border: 1px inset rgb(0, 0, 0) ;
+}
