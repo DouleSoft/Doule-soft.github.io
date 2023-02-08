@@ -8,7 +8,7 @@
 
     .tg {
         background-image: url(https://github.com/Doule-soft/Doule-soft.github.io/blob/main/telegram.png?raw=true)
-        
+         
     }
 
     body {
@@ -19,15 +19,22 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: -300px;
+        margin-bottom: 30px;
         width: 100px;
     }
 .www {
-    background-image: url(https://github.com/Doule-soft/Doule-soft.github.io/blob/main/photo_2022-11-29_09-08-41.jpg?raw=true);
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.test1 {
+    text-decoration: none;
+    text-align: center;
+    color: aqua;
 }
