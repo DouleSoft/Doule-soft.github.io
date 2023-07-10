@@ -1,0 +1,78 @@
+.t1 {
+   background-image: url(https://i.gifer.com/1j64.gif);
+   width: 100%;
+   background-position: center;
+   background-repeat: repeat;
+background-size: cover;
+   height: 1000px;
+   
+}
+.t2 {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.t3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
+    width: 190px;
+    height: 190px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: none;
+height: 50%;
+}
+.t4 {
+  
+    background-size: 10%;
+       background-repeat: no-repeat;
+       text-align: center;
+        font-size: x-large;
+       color: rgb(255, 255, 255);
+       width:5%;
+       
+       margin-left: auto;
+       margin-right: auto;
+       height: 100%;
+       border-radius: 100%;
+}
+.t6 {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+video {
+    -o-object-fit: cover;
+    object-fit: cover;
+    width: 34vw;
+    height: 33vw;
+    border-radius: 100% 100% 100% 100%;
+    -webkit-box-shadow: 0px 1px 5px 17px #adddf3;
+    box-shadow: 0px 1px 5px 17px #adddf3;
+    padding-bottom: 0vw;
+    padding-top: 0vw;
+    padding-left: 0vw;
+    padding-right: 0vw;
+    margin-right: 5vw;
+}
+h3 {
+background-size: 100%;
+background-repeat: no-repeat;
+text-align: center;
+ font-size: x-large;
+color: rgb(255, 255, 255);
+width:50%;
+
+margin-left: auto;
+margin-right: auto;
+height: 100%;
+border-radius: 100%;
+}
